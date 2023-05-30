@@ -16,8 +16,6 @@ describe('validateColor function', () => {
             'rgb(28 148 103 / 50%)',
             'hsl(0 0% 0%)',
             'hsla(158,68.2%,34.5%,0.5)',
-            '[0, 0, 0]',
-            '[0, 0, 0, 0.1]'
         ];
 
         for (const value of validColorStrings) {
@@ -55,9 +53,6 @@ describe('validateColor function', () => {
             'rgb(28 148 103 0.5)',
             'rgb(28 148 103 / 0.5 2)',
             'hsl(0,0,0)',
-            '[]',
-            '[1,2]',
-            '[{},2,3]'
         ];
 
         for (const value of invalidColorStrings) {

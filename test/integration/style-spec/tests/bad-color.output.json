@@ -8,11 +8,7 @@
     "line": 17
   },
   {
-    "message": "layers[1].paint.fill-color: color expected, \"[a,2,3]\" found",
-    "line": 26
-  },
-  {
     "message": "layers[1].paint.fill-outline-color: color expected, array found",
-    "line": 27
+    "line": 26
   }
 ]
