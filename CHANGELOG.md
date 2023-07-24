@@ -1,4 +1,17 @@
 ## main
+
+## 19.3.0
+
+### ✨ Features and improvements
+
+* Add style property definition and validation for symbol layer `text-variable-anchor-offset` layout property. [#112](https://github.com/maplibre/maplibre-style-spec/issues/112)
+
+## 19.2.2
+
+### ✨ Features and improvements
+
+* Trim css color before parsing [#255](https://github.com/maplibre/maplibre-style-spec/pull/255)
+
 ## 19.2.1
 ### ✨ Features and improvements
 
